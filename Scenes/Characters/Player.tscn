@@ -13,10 +13,6 @@ script = ExtResource( 2 )
 
 texture = ExtResource( 3 )
 
-[node name="CollisionShape2D" parent="." index="1"]
-
-visible = false
-
 [node name="Torch" parent="." index="2" instance=ExtResource( 4 )]
 
 position = Vector2( 12.9326, -0.226868 )
